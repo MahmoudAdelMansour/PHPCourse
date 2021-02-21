@@ -1,24 +1,40 @@
 # PHPCourse
 PHP Course Material
 
-1:The First Steps – 
-1-Overview & PHP  Directories CGI VS Fast CGI
-2.2 –Reference Files & Code Editor Embedding  	 
+1:The First Steps 
+- 1-Overview & PHP  Directories CGI VS Fast CGI
+
+-2.Reference Files & Code Editor Embedding
+
 2-What’s Server Mean And Ports  With Hosting  Priciple
+
 3-Apache Vs Nginx & Load Balancing  With Backend Routing & Cashing
+
 4-Local Development Environment Tools
+
 5-Syntax And Intermediate Level 
+
 2:PHP The Web Socket – 
-4.Client And Server Communication 
-5.RTC With HALF Vs Full duplex
-6.Sockets Built In PHP 
-7.Installing / Configuring 
-8.Socket Functions With Server And Client
-9.WAMP ( RPC AND Pub/Sub )
-10.SocketoME With Ratchat
-11.SocketIO With Node JS
-12.Dependencies & Configuring The Server 
-13.Websocket Vs Ajax 
+
+4.Client And Server Communication
+
+6.RTC With HALF Vs Full duplex
+
+8.Sockets Built In PHP 
+
+10.Installing / Configuring
+
+12.Socket Functions With Server And Client
+
+14.WAMP ( RPC AND Pub/Sub )
+
+16.SocketoME With Ratchat
+
+18.SocketIO With Node JS
+
+20.Dependencies & Configuring The Server 
+
+22.Websocket Vs Ajax 
 
 1: Introduction to PHP Programming 
 
