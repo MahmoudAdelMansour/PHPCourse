@@ -103,18 +103,17 @@
     
 ### PHP The Web Socket – 
 
--It's Time To RealTime 
-    -	Client And Server Communication 
+- It's Time To RealTime
+    -	Client And Server Communication  
     -	RTC With HALF Vs Full duplex
-    -	Sockets Built In PHP 
+    -	Sockets Built In PHP
     -	Installing / Configuring 
     -	Socket Functions With Server And Client
     -	WAMP ( RPC AND Pub/Sub )
     -	SocketoME With Ratchat
     -	SocketIO With Node JS
-    -	Dependencies & Configuring The Server 
-    -	Websocket Vs Ajax 
-
+    -	Websocket Vs Ajax  
+ ---
 
 # Full Project In New Play List To Apply On All Pervious Skills
 
