@@ -50,7 +50,7 @@
     -	Control In Statement Order By Update Delete
 -	**Project – Online Book Store With Admin And User Controling**
 
-###	RESET API – 
+###	REST API – 
 
 - Learn To Build Full API
     -	What is REST API And Why | Where we Use
