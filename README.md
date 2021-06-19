@@ -18,9 +18,9 @@
 - Prepare You to Write A PHP Correctly  
     -	Syntax Outputs And Variables With Constants
     -	Data Types In Deep
+    -	Math | String | Arrays 
     -	Arrays with Multidimensional ASSOCI
     -	Built In Data Methods | Function
-    -	Math | String | Arrays 
     -	Arrays Methods In Deep
     -	Operators 
     -	Flow Controls 
